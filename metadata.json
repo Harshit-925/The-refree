@@ -1,0 +1,5 @@
+{
+  "name": "The Referee: AWS Decision Support",
+  "description": "An expert decision-support tool comparing AWS Lambda and AWS EC2 based on user-defined constraints, offering trade-off analysis instead of binary answers.",
+  "requestFramePermissions": []
+}
